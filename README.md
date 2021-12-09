@@ -7,3 +7,6 @@ la esta haciendo otro usuario: jolu. A ver que tal.
 
 Esta es una nueva modificacion del fichero readme.md 
 propiedad de romanjl hecha por jolu el dia 9-12-2015.
+
+Esta modificacion del fichero readme.md se esta haciendo
+el dia 9 de diciembre de 2021 y la hace romanjl.
